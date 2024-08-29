@@ -11,3 +11,4 @@ Clinic would be the client object.
 Refer to the UML Class Diagram
 
 ##UML
+![Screenshot 2024-08-30 053542](https://github.com/user-attachments/assets/dbc43b7b-9eaa-4a6d-aef4-34f9809c5746)
